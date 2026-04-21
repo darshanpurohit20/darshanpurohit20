@@ -129,14 +129,7 @@ Lightweight sharing tool deployed on Hugging Face Spaces for quick file and clip
 
 ---
 
-## Hardware / Embedded
 
-### ESP32 MQTT Sensor Node *(Meshnet Electronics — Firmware Internship)*
-IoT sensor node built on Wokwi simulator. MQTT-based telemetry pipeline with configurable publish intervals. Firmware designed for low-power embedded environments.
-
-**Stack:** ESP32 · MQTT · C/C++ · Wokwi
-
----
 
 ## Competitive Record
 
@@ -144,28 +137,10 @@ IoT sensor node built on Wokwi simulator. MQTT-based telemetry pipeline with con
 |---|---|---|
 | VJTI BlackBox Debuggathon | 🥈 2nd Place | Systems debugging |
 | AVISHKAAR Season 3 (National) | 🏆 Top 5 | Innovation / AI |
-| SOC1 Hackathon | Active | VoiceForward (crisis AI) |
-| Codeshastra | Shortlisted | Hackathon |
-| JPMorgan Chase SE Program | Applied | Software Engineering |
-| Meshnet Electronics | Internship | Firmware / ESP32 |
+
 
 ---
 
-## Case Competition Work
-
-Beyond technical builds, I compete in business case competitions. Decks below were built under competition conditions.
-
-| Case | Company | Core Thesis |
-|---|---|---|
-| Customer Loyalty | National Online Grocer | 4-tier loyalty + AI recommendations + omnichannel activation |
-| Manufacturing Scale | Novus Manufacturing (SPIT Strategia) | Per-product make/outsource/hybrid strategy + Tier-3 GTM |
-| Fintech Pivot | CRED (Merge Mania) | Reposition CRED as credit intelligence layer; lending is the only profitable vertical |
-| Digital Transformation | GreenMart Superstore | In-house delivery + datafication + omnichannel loyalty token |
-| AI Fashion Retail | Personal Shopping Companion | AI-native styling engine with privacy-first personalization |
-
-Case competition skills: problem structuring · root cause analysis · driver-based financial modeling · go-to-market strategy · India-specific market context
-
----
 
 ## Currently Building
 
@@ -181,7 +156,7 @@ Portfolio Insights → Adding options chain data + F&O analytics
 
 - **Indian equity markets** — equity research, portfolio construction, fundamental + technical analysis of NSE-listed companies  
 - **Custom ROMs** — device modding, kernel-level tinkering, understanding what's running at the OS layer  
-- **Case competitions** — business strategy under time pressure; done 5 full decks across fintech, manufacturing, FMCG, and retail
+- **Case competitions** — business strategy under time pressure
 
 ---
 
