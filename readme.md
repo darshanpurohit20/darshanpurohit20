@@ -4,8 +4,8 @@
 
 **B.Tech Information Technology · DJSCE Mumbai · Class of 2027**
 
-[![CGPA](https://img.shields.io/badge/CGPA-9.11-brightgreen?style=flat-square)](https://github.com/darshanpurohit20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshanpurohit20)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshanpurohit)
 [![GitHub](https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github)](https://github.com/darshanpurohit20)
 
 *Building agentic AI systems, RAG pipelines, and full-stack products that actually ship.*
@@ -189,7 +189,7 @@ Portfolio Insights → Adding options chain data + F&O analytics
 
 Building something with agentic AI, RAG, or real-time data pipelines? Or just want to talk equity research or custom ROMs?
 
-[![Email](https://img.shields.io/badge/Email-reach_out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darshanpurohit20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reach_out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darshanpurohit2513@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github)](https://github.com/darshanpurohit20)
 
 ---
