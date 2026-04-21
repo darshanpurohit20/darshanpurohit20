@@ -4,17 +4,17 @@
 
 **B.Tech Information Technology · DJSCE Mumbai · Class of 2027**
 
-<a href="https://linkedin.com/in/darshanpurohit" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-</a>
-
-<a href="https://github.com/darshanpurohit20" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github" />
-</a>
-
-<a href="https://huggingface.co/Darshanpurohit" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-Profile-FF9D00?style=flat-square&logo=huggingface&logoColor=black" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/darshanpurohit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/darshanpurohit20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://huggingface.co/Darshanpurohit" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-FF9D00?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 *Building agentic AI systems, RAG pipelines, and full-stack products that actually ship.*
 
