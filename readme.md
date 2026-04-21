@@ -92,16 +92,6 @@ FastAPI backend for NSE-listed equity portfolios. Simulates day high/low trackin
 
 ---
 
-### ARGUS
-> Geospatial intelligence engine · AIRAVAT 3.0 pitch
-
-Decision intelligence engine for geospatial anomaly prioritization. Framed around the distinction between anomaly detection (flagging everything) and anomaly prioritization (surfacing what matters). Built for defense/security use cases.
-
-**Stack:** Python · Leaflet.js · OpenStreetMap · Overpass API  
-**Key framing:** "Decision intelligence" over "surveillance" — anomaly prioritization as the core differentiator
-
----
-
 ### AI Research Paper Agent
 > Autonomous paper digest system running on GitHub Actions
 
