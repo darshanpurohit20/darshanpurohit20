@@ -1,182 +1,179 @@
 <div align="center">
 
-# Darshan Purohit
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E1065,100:0D1117&height=200&section=header&text=DARSHAN%20PUROHIT&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%2B%20AI%2FML%20Engineer%20%7C%20Building%20systems%20that%20ship&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
 
-**B.Tech Information Technology · DJSCE Mumbai · Class of 2027**
+<!-- ANIMATED TYPING SUBTITLE -->
+<a href="https://github.com/darshanpurohit20">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Real-Time+Systems+%40+Sub-200ms+Latency;RAG+Pipelines+%2B+Vector+Search+(Pinecone);Multimodal+Deepfake+Detection+(PyTorch+%2B+GNN);Agentic+AI+%7C+FastAPI+%7C+React" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/darshanpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/darshanpurohit20" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://huggingface.co/Darshanpurohit" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-Profile-FF9D00?style=flat-square&logo=huggingface&logoColor=black" />
-  </a>
-</p>
+<br/>
 
-*Building agentic AI systems, RAG pipelines, and full-stack products that actually ship.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanpurohit)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanpurohit2513@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Darshanpurohit)
 
 </div>
 
 ---
 
-## About
+### About Me
 
-Third-year IT student at Dwarkadas J. Sanghvi College of Engineering, Mumbai. I work at the intersection of AI/ML engineering and product thinking — most of my projects are systems that combine LLMs, vector databases, and real-time data pipelines into things people can use.
+Third-year **B.Tech Information Technology** student at Dwarkadas J. Sanghvi College of Engineering, Mumbai (**CGPA 9.11**, Class of 2027).
 
-Outside the technical work: I compete in hackathons and case competitions, follow the Indian equity market closely, and tinker with custom ROMs when I'm curious about what's running underneath.
+I build systems where **LLMs, vector databases, and real-time data pipelines** meet actual production constraints — sub-200ms latency budgets, concurrent request handling, and B2B-scale record volumes. My deepfake detection research (Pyramid-ResNet + GNN over facial landmarks) was **accepted for publication**.
 
----
-
-## Tech Stack
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Backend / APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Frontend / Realtime
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Data / Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![nsepython](https://img.shields.io/badge/nsepython-NSE_Data-blue?style=flat-square)
+Outside engineering: hackathons, Indian equity markets, and custom ROM tinkering.
 
 ---
 
-## Projects
+### Tech Stack
 
-### VoiceForward
-> AI-augmented crisis helpline intelligence layer · SOC1 Hackathon
+<div align="center">
 
-Real-time operator HUD for crisis helpline management. Built on a five-agent system with a MetaAgent for conflict resolution between agent outputs. Multilingual STT via Sarvam AI. Entirely free-tier stack.
+**Languages**
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 
-**Stack:** WebRTC · Groq · Sarvam AI · Leaflet.js · OpenStreetMap · Overpass API  
-**Architecture:** 5-agent pipeline — Triage Agent, Risk Agent, Resource Agent, Sentiment Agent, MetaAgent (conflict resolver)
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=A78BFA)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=A78BFA)
 
----
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00D9FF)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logo=pinecone&logoColor=00D9FF)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logoColor=00D9FF)
 
-### StratoTest
-> Agentic AI backtesting platform for equity strategies
+**Frontend & Realtime**
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=A78BFA)
+![WebRTC](https://img.shields.io/badge/WebRTC-0D1117?style=for-the-badge&logo=webrtc&logoColor=A78BFA)
 
-LangChain-powered agent that interprets natural-language trading strategy descriptions, generates backtesting logic, executes against historical NSE data, and returns performance analytics. Uses Pinecone for strategy memory and retrieval.
+**Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
 
-**Stack:** LangChain · Pinecone · Python · FastAPI · NSE data  
-**Key feature:** Strategy memory via vector embeddings — retrieve similar past strategies before generating new ones
-
----
-
-### TIPE
-> B2B AI trade matchmaking platform
-
-AI-powered platform that matches exporters and importers using semantic search over trade profiles. Migrated backend from Gemini to Groq (llama-3.3-70b-versatile) with round-robin API key rotation across FastAPI and Flask layers. Multi-namespace RAG search via Pinecone.
-
-**Stack:** FastAPI · Flask · Groq · Pinecone · React  
-**Notable:** Round-robin key rotation across both API layers for rate limit management
-
----
-
-### Portfolio Insights
-> Indian stock portfolio backend deployed on Hugging Face Spaces
-
-FastAPI backend for NSE-listed equity portfolios. Simulates day high/low tracking, portfolio valuation, sector breakdowns, and returns analysis. Switched data source from Yahoo Finance to `nsepython` after IP-ban issues.
-
-**Stack:** FastAPI · nsepython · Python · Hugging Face Spaces  
-**Live:** [huggingface.co/spaces](https://huggingface.co/spaces) · Public API endpoints for NSE data
+</div>
 
 ---
 
-### AI Research Paper Agent
-> Autonomous paper digest system running on GitHub Actions
+### Featured Projects
 
-Autonomous agent that queries arXiv, Semantic Scholar, and Papers With Code on a schedule, curates relevant AI/ML papers, and delivers a Telegram digest. Extended with a historical AI curriculum mode — delivers landmark papers in chronological order to build foundational knowledge.
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** GitHub Actions · Python · arXiv API · Semantic Scholar API · Telegram Bot API  
-**Modes:** Daily digest (recent papers) + Historical curriculum (chronological landmark papers)
+**📊 Portfolio Insights** — [`repo`](https://github.com/darshanpurohit20/Portfolio_Insights)
+Real-time NSE analytics engine processing 500+ records at **sub-200ms latency**. FastAPI + `ThreadPoolExecutor` for concurrent ingestion, custom Day High/Low simulation, anomaly signals for risk detection. Live on Hugging Face Spaces.
+`FastAPI` `Python` `nsepython`
+
+</td>
+<td width="50%">
+
+**🤝 TIPE** — [`repo`](https://github.com/darshanpurohit20/Tipe)
+B2B trade-matchmaking platform, RAG pipeline over **Pinecone** vector search + intent scoring across 10,000+ records. Groq (Llama-3.3-70B) with round-robin key rotation across FastAPI/Flask layers. Tinder-style swipe UI.
+`FastAPI` `Pinecone` `PostgreSQL` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🕵️ Multimodal Deepfake Detection**
+Fuses video frames + audio via **Pyramid-ResNet** and Mini-CNN; a **Graph Neural Network** models facial-landmark relationships across frames to catch anatomically inconsistent expressions. **Findings published as an accepted research paper.**
+`PyTorch` `GNN` `Computer Vision`
+
+</td>
+<td width="50%">
+
+**📈 StratoTest** — [`repo`](https://github.com/darshanpurohit20/Prahari_Stratotest)
+Agentic backtesting platform — describe a trading strategy in plain English, get a friction-realistic backtest against historical NSE data. LangChain agent + Pinecone-backed strategy memory for retrieval of similar past strategies.
+`LangChain` `Pinecone` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎙️ VoiceForward**
+AI-augmented crisis-helpline intelligence layer built at SOC1 Hackathon. Five-agent pipeline (Triage, Risk, Resource, Sentiment, MetaAgent for conflict resolution) with multilingual STT via Sarvam AI — entirely free-tier stack.
+`WebRTC` `Groq` `Sarvam AI`
+
+</td>
+<td width="50%">
+
+**🤖 AI Research Paper Agent**
+Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a schedule; curates and delivers an AI/ML paper digest via Telegram, plus a historical-curriculum mode for landmark papers in order.
+`GitHub Actions` `arXiv API` `Telegram Bot`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Multimodal Deepfake Detection System
-> Academic project · CV + NLP fusion
+### Achievements
 
-Detection system that fuses visual and linguistic signals to classify deepfake media. Combines CNN-based frame analysis with NLP-based transcript inconsistency detection.
-
-**Stack:** Python · PyTorch · OpenCV · Transformers
-
----
-
-### GeoRoute AI
-> AI-powered route optimization
-
-Intelligent routing system with natural language query support. Users describe routing constraints in plain English; the system generates optimized paths.
-
-**Stack:** Python · Leaflet.js · OpenStreetMap · Groq
-
----
-
-### ClipShare
-> File and text sharing tool
-
-Lightweight sharing tool deployed on Hugging Face Spaces for quick file and clipboard text exchange.
-
-**Stack:** FastAPI · Hugging Face Spaces
-
----
-
-
-
-## Competitive Record
-
-| Competition | Result | Topic |
+| Competition | Result | Focus |
 |---|---|---|
-| VJTI BlackBox Debuggathon | 🥈 2nd Place | Systems debugging |
-| AVISHKAAR Season 3 (National) | 🏆 Top 5 | Innovation / AI |
-
-
----
-
-
-## Currently Building
-
-```
-VoiceForward       → SOC1 Hackathon submission (active)
-StratoTest         → Expanding strategy library + backtesting accuracy
-Portfolio Insights → Adding options chain data + F&O analytics
-```
+| 🥈 **BlackBox 2026 Debuggathon** — VJTI | 2nd Place | Resolved production-grade failures without source access, via runtime analysis & log tracing |
+| 🏆 **AVISHKAAR Season 3** (National) — AITAM | Top 5 / 200+ teams | Scalable MVP under 24-hour pressure |
+| 📄 **Deepfake Detection Research Paper** | Accepted, Feb 2026 | Deep learning paper accepted for presentation |
 
 ---
 
-## Outside Engineering
+### GitHub Analytics
 
-- **Indian equity markets** — equity research, portfolio construction, fundamental + technical analysis of NSE-listed companies  
-- **Custom ROMs** — device modding, kernel-level tinkering, understanding what's running at the OS layer  
-- **Case competitions** — business strategy under time pressure
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=darshanpurohit20&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanpurohit20&theme=tokyonight&background=0D1117&border=2E1065&stroke=00D9FF&ring=A78BFA&fire=00D9FF"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanpurohit20&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=darshanpurohit20&theme=tokyonight&no-frame=true&row=1&margin-w=10&margin-h=10&column=6"/>
+</div>
 
 ---
 
-## Get in Touch
+### Arcade Zone
 
-Building something with agentic AI, RAG, or real-time data pipelines? Or just want to talk equity research or custom ROMs?
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-reach_out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darshanpurohit2513@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-darshanpurohit20-181717?style=flat-square&logo=github)](https://github.com/darshanpurohit20)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/github-snake.svg" width="100%"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/pacman-contribution-graph.svg" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
+*Both animations regenerate daily from live contribution data — see `main.yml` below.*
+
+</div>
 
 ---
 
 <div align="center">
-<sub>DJSCE · Mumbai · B.Tech IT · 2027</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=darshanpurohit20&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E1065,100:0D1117&height=100&section=footer" width="100%"/>
+
 </div>
