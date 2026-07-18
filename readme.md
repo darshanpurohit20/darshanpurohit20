@@ -164,7 +164,7 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
   <img alt="pacman animation" src="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
-
+*Both animations regenerate daily from live contribution data — see `main.yml` below.*
 
 </div>
 
