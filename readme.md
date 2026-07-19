@@ -135,7 +135,7 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshanpurohit20&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanpurohit20&theme=tokyonight&background=0D1117&border=2E1065&stroke=00D9FF&ring=A78BFA&fire=00D9FF"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=darshanpurohit20&theme=tokyonight&background=0D1117&border=2E1065&stroke=00D9FF&ring=A78BFA&fire=00D9FF"/>
 </div>
 
 <div align="center">
