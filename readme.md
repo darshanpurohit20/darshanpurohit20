@@ -64,60 +64,7 @@ Outside engineering: hackathons, Indian equity markets, and custom ROM tinkering
 
 </div>
 
----
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**📊 Portfolio Insights** — [`repo`](https://github.com/darshanpurohit20/Portfolio_Insights)
-Real-time NSE analytics engine processing 500+ records at **sub-200ms latency**. FastAPI + `ThreadPoolExecutor` for concurrent ingestion, custom Day High/Low simulation, anomaly signals for risk detection. Live on Hugging Face Spaces.
-`FastAPI` `Python` `nsepython`
-
-</td>
-<td width="50%">
-
-**🤝 TIPE** — [`repo`](https://github.com/darshanpurohit20/Tipe)
-B2B trade-matchmaking platform, RAG pipeline over **Pinecone** vector search + intent scoring across 10,000+ records. Groq (Llama-3.3-70B) with round-robin key rotation across FastAPI/Flask layers. Tinder-style swipe UI.
-`FastAPI` `Pinecone` `PostgreSQL` `RAG`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🕵️ Multimodal Deepfake Detection**
-Fuses video frames + audio via **Pyramid-ResNet** and Mini-CNN; a **Graph Neural Network** models facial-landmark relationships across frames to catch anatomically inconsistent expressions. **Findings published as an accepted research paper.**
-`PyTorch` `GNN` `Computer Vision`
-
-</td>
-<td width="50%">
-
-**📈 StratoTest** — [`repo`](https://github.com/darshanpurohit20/Prahari_Stratotest)
-Agentic backtesting platform — describe a trading strategy in plain English, get a friction-realistic backtest against historical NSE data. LangChain agent + Pinecone-backed strategy memory for retrieval of similar past strategies.
-`LangChain` `Pinecone` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎙️ VoiceForward**
-AI-augmented crisis-helpline intelligence layer built at SOC1 Hackathon. Five-agent pipeline (Triage, Risk, Resource, Sentiment, MetaAgent for conflict resolution) with multilingual STT via Sarvam AI — entirely free-tier stack.
-`WebRTC` `Groq` `Sarvam AI`
-
-</td>
-<td width="50%">
-
-**🤖 AI Research Paper Agent**
-Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a schedule; curates and delivers an AI/ML paper digest via Telegram, plus a historical-curriculum mode for landmark papers in order.
-`GitHub Actions` `arXiv API` `Telegram Bot`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -142,9 +89,9 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshanpurohit20&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy-winning.vercel.app/?username=darshanpurohit20&theme=tokyonight&no-frame=true&row=1&margin-w=10&margin-h=10&column=6"/>
-</div>
+</div> -->
 
 ---
 
@@ -164,7 +111,7 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
   <img alt="pacman animation" src="https://raw.githubusercontent.com/darshanpurohit20/darshanpurohit20/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
-*Both animations regenerate daily from live contribution data — see `main.yml` below.*
+
 
 </div>
 
