@@ -143,7 +143,7 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=darshanpurohit20&theme=tokyonight&no-frame=true&row=1&margin-w=10&margin-h=10&column=6"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=darshanpurohit20&theme=tokyonight&no-frame=true&row=1&margin-w=10&margin-h=10&column=6"/>
 </div>
 
 ---
