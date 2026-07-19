@@ -134,12 +134,12 @@ Autonomous agent querying arXiv, Semantic Scholar, and Papers With Code on a sch
 ### GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darshanpurohit20&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=darshanpurohit20&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=darshanpurohit20&theme=tokyonight&background=0D1117&border=2E1065&stroke=00D9FF&ring=A78BFA&fire=00D9FF"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanpurohit20&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshanpurohit20&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_color=2E1065&hide_border=false"/>
 </div>
 
 <div align="center">
